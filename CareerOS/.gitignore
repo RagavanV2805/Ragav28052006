@@ -18,3 +18,7 @@ CareerOS.xcodeproj
 # fastlane / misc
 fastlane/report.xml
 .DS_Store
+
+# Generated previews / archives (not part of the source tree)
+screenshots/
+*.zip
